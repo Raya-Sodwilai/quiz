@@ -12,7 +12,7 @@
 
 ## Description
 
-_This browser was created to test which character you are from one of the most popular TV shows in America called _**Friends!**_ There four questions to identify who you are as a character_
+_This browser was created to test which character you are from one of the most popular TV shows in America called _**Friends!**_ There four questions to identify who you are as a character._
 
 ## Setup/Installation Requirements
 
