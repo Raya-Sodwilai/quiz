@@ -1,6 +1,6 @@
 # _Quiz_
 
-#### _This is a quiz to identify which character you are from "Friends"!_
+#### _This is a quiz to identify which character you are from "Friends" TV show!_
 
 #### By _**Raya Sodwilai**_
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_This browser was created to test which character you are from one of the most popular TV shows in America called _**Friends!**_ There four questions to identify who you are as a character._
+_This browser was created to test which character you are from one of the most popular TV shows in America called _**Friends!**_ There are four questions to identify who you are as a character._
 
 ## Setup/Installation Requirements
 
