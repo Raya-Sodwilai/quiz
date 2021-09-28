@@ -7,8 +7,8 @@
 ## Technologies Used
 
 * HTML
+* JavaScript
 * CSS
-* JS
 
 ## Description
 
