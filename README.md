@@ -12,9 +12,13 @@
 
 ## Description
 
-_This browser was created to test which character you are from one of the most popular TV shows in America called _**Friends!**_ There are four questions to identify who you are as a character._
+_This project displays the utilization of basic implementation of object oriented JavaScript._
 
 ## Setup/Installation Requirements
+
+* Internet Browser
+* A GitHub Account
+* Code Editor such as Visual Studio Code
 
 ## Known Bugs
 
