@@ -28,7 +28,7 @@ _This project displays the utilization of basic implementation of object oriente
 
 _MIT_
 
-_Copyright (c) 2021 Raya Sodwilai_
+_Copyright &copy 2021 Raya Sodwilai_
 
 ## Contact Information
 
